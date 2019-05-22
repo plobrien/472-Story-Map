@@ -3,20 +3,20 @@ Created for GEOG 472. This webslide is a tour of the five national parks in the 
 
 **Arches National Park**
 
-![](delicate.jpg)
+![] (delicate.jpg)
 
 **Bryce Canyon National Park**
 
-![](bryce.jpg)
+![] (bryce.jpg)
 
 **Canyonlands National Park**
 
-![](canyon.jpg)
+![] (canyon.jpg)
 
 **Capitol Reef National Park**
 
-![](reef.jpg)
+![] (reef.jpg)
 
 **Zion National Park**
 
-![](zion.jpg)
+![] (zion.jpg)
